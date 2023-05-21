@@ -1,2 +1,2 @@
-# sql-datamodeling-engineering-analysis
+# sql-Datamodeling-Engineering-Analysis
 SQL project
